@@ -6,6 +6,21 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/MissilePilot/CS301MVP/MissilePilot/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/MissilePilot/CS301MVP/MissilePilot/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"D:/MissilePilot/CS301MVP/MissilePilot/Content/ThirdPerson/Blueprints/BP_ShipPawn.uasset",
+				"D:/MissilePilot/CS301MVP/MissilePilot/Content/ThirdPerson/Blueprints/BP_GameMode.uasset",
+				"D:/MissilePilot/CS301MVP/MissilePilot/Content/ThirdPerson/Input/Actions/IA_Pilot.uasset",
+				"D:/MissilePilot/CS301MVP/MissilePilot/Content/TestLevel.umap",
+				"D:/MissilePilot/CS301MVP/MissilePilot/Content/ThirdPerson/Blueprints/BP_PlayerController.uasset",
+				"D:/MissilePilot/CS301MVP/MissilePilot/Content/ThirdPerson/Input/IMC_Ship.uasset",
+				"D:/MissilePilot/CS301MVP/MissilePilot/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/MissilePilot/CS301MVP/MissilePilot/Content/ThirdPerson/Blueprints/BP_Light.uasset",
+				"D:/MissilePilot/CS301MVP/MissilePilot/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/8X/VVUT0LMHML5B0488K7LF8D.uasset",
+				"D:/MissilePilot/CS301MVP/MissilePilot/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/MissilePilot/CS301MVP/MissilePilot/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/MissilePilot/CS301MVP/MissilePilot/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/0H/PI5XB60P7ISZUMAJFQQFJD.uasset",
+				"D:/MissilePilot/CS301MVP/MissilePilot/Content/StarterContent/Blueprints/ShipPawn.uasset",
+				"D:/MissilePilot/CS301MVP/MissilePilot/Content/StarterContent/Blueprints/BP_ShipPawn.uasset",
 				"D:/MissilePilot/CS301MVP/MissilePilot/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
 				"D:/MissilePilot/CS301MVP/MissilePilot/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
 				"D:/MissilePilot/CS301MVP/MissilePilot/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
@@ -35,8 +50,7 @@
 				"D:/MissilePilot/CS301MVP/MissilePilot/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset",
 				"D:/MissilePilot/CS301MVP/MissilePilot/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
 				"D:/MissilePilot/CS301MVP/MissilePilot/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
-				"D:/MissilePilot/CS301MVP/MissilePilot/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset",
-				"D:/MissilePilot/CS301MVP/MissilePilot/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset"
+				"D:/MissilePilot/CS301MVP/MissilePilot/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
 			]
 		}
 	]
