@@ -16,6 +16,11 @@
 			"Enabled": true
 		},
 		{
+			"Name": "CustomizableInteractionPlugin",
+			"Enabled": false,
+			"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/product/customizable-interaction-plugin"
+		},
+		{
 			"Name": "SubtitleHookUMG",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/38f2e1097ec74e83988af56689d4daff"
